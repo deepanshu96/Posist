@@ -12,3 +12,5 @@ The following functionalities were added:-
 
 The above test is programmed in c++ language which can be compiled on terminal by using the following command
 * g++ my.cpp -o prog2
+
+The code is in this [posit.cpp](https://github.com/deepanshu96/Posist/blob/master/posit.cpp)
